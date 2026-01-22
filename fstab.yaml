@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p104103-e1884364.adobeaemcloud.com/bin/franklin.delivery/aniljangra27/universal-editor-practice/main"
+    url: "https://author-p104103-e1884364.adobeaemcloud.com/bin/franklin.delivery/aniljangra27/universal-editor-practice-site/main"
     type: "markup"
     suffix: ".html"
