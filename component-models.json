@@ -222,7 +222,6 @@
         "component": "richtext",
         "name": "quote",
         "label": "Quote",
-        "required": true,
         "placeholder": "Enter quote text"
       },
       {
