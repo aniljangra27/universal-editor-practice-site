@@ -223,14 +223,16 @@
         "name": "quote",
         "value": "",
         "label": "Quote",
-        "valueType": "string"
+        "valueType": "string",
+        "required": true
       },
       {
         "component": "text",
         "valueType": "string",
         "name": "author",
         "label": "Author",
-        "value": ""
+        "value": "",
+        "maxLength": 60
       }
     ]
   }
