@@ -221,17 +221,14 @@
       {
         "component": "richtext",
         "name": "quote",
-        "value": "",
         "label": "Quote",
-        "valueType": "string",
-        "required": true
+        "required": true,
+        "placeholder": "Enter quote text"
       },
       {
         "component": "text",
-        "valueType": "string",
         "name": "author",
         "label": "Author",
-        "value": "",
         "maxLength": 60
       }
     ]
